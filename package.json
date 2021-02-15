@@ -1,0 +1,12 @@
+{
+  "name": "stencil-reproduce-2827",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/remorses/stencil-reproduce-2827.git",
+  "author": "remorses <beats.by.morse@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@stencil/core": "^2.4.0",
+    "esbuild": "^0.8.46"
+  }
+}
